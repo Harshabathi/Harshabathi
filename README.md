@@ -2,7 +2,7 @@
 
 🎓 Mechanical engineering student at IIT Patna<br/>
 🚀 Aspiring Full-Stack Web Developer | Currently learning MERN Stack<br/>
-💻 Building projects to sharpen my skills — next up: Airbnb clone!<br/>
+💻 Building projects to sharpen my skills <br/>
 🎯 Open to internships, collaborations, and hackathons<br/>
 🌍 Passionate about tech, design & clean user experiences<br/>
 
